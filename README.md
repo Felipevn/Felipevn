@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ I've been playing with pyhton and machine learning for some time and this is to show some of the things I've done.
+
 <!--
 **Felipevn/Felipevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
